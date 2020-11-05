@@ -5,6 +5,7 @@ const messages = ["Mike says Jump for joy", "Mike says i love you", "Mike says y
 const indexmsg = () => Math.floor(Math.random() *  messages.length);
 //let indexmsg = Math.floor(Math.random() * messages.length);
 //
+//
 //function
 function changeColor(color){
     
